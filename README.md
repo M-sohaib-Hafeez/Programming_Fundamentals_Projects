@@ -24,6 +24,7 @@ A collection of C++ console-based projects built as part of the **Programming Fu
 ### Prerequisites
 - A C++ compiler (GCC / G++ recommended)
 - Any IDE: Code::Blocks, Dev-C++, VS Code with C++ extension
+- For Quiz_System also download Question.txt file (or you can create your own but follow the same pattern )
 
 ### Compile & Run (Command Line)
 ```bash
